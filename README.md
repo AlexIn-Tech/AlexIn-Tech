@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexIn-Tech
+- 👋 Hi, I’m @AlexIn Tech
 - 👀 I’m interested in way too much things.
 - 🌱 I’m currently learning more about lean practices and still improving in Python and Powershell. 
 - 💻 I have a blog : https://alexin.tech/
