@@ -20,10 +20,10 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 
 ## Tech Stack
 
-- **Systems & Ops:** Docker, PowerShell, backup/restore content, networking labs
-- **Automation & scripting:** Python, RSS integrations, Telegram bot tooling
-- **Web & app development:** HTML, JavaScript, Tailwind CSS, Django
-- **AI & APIs:** OpenAI API experimentation, GPT-oriented prototypes
+- **Systems & Ops:** `Docker`, `PowerShell`, `GitHub Actions`, `GitHub Pages`
+- **Automation & scripting:** `Python`, RSS integrations, Telegram bot tooling
+- **Web & app development:** `HTML`, `JavaScript`, `Tailwind CSS`, `Django`
+- **AI & APIs:** `OpenAI API`, GPT-oriented prototypes
 
 ## Selected Projects
 
