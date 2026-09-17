@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alexis
+# AlexIn Tech
 
 **SysOps Engineer · Lausanne, Switzerland**
 
