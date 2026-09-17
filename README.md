@@ -14,23 +14,15 @@
 
 ## About
 
-I’m Alexis, a SysOps Engineer and IT teacher. Systems and infrastructure are my foundation. Automation, custom development, and a growing interest in AI expand what I can build.
+I’m Alexis, a SysOps Engineer and IT teacher. Systems and Infrastructure are my foundation. Automation, custom development, and a growing interest in AI expand what I can build.
 
 My work centers on reliable systems, Linux and SysOps, automation, hosting and deployment, custom software, web and mobile projects, AI tooling, and practical IT teaching.
 
-## Tech Stack
-
-- **Systems & Ops:** `Docker`, `PowerShell`, `GitHub Actions`, `GitHub Pages`
-- **Automation & scripting:** `Python`, RSS integrations, Telegram bot tooling
-- **Web & app development:** `HTML`, `JavaScript`, `Tailwind CSS`, `Django`
-- **AI & APIs:** `OpenAI API`, GPT-oriented prototypes
 
 ## Selected Projects
 
 - [`Swiss-IT-Tech-News`](https://github.com/AlexIn-Tech/Swiss-IT-Tech-News) — Bot for a Telegram channel that publishes news from RSS feeds, with Docker support.
 - [`Swiss-IBAN-to-QR-IBAN-Converter`](https://github.com/AlexIn-Tech/Swiss-IBAN-to-QR-IBAN-Converter) — A Swiss QR-IBAN converter built with HTML, Tailwind CSS, and JavaScript.
-- [`I143-Implanter-un-systeme-de-sauvegarde-et-de-restauration`](https://github.com/AlexIn-Tech/I143-Implanter-un-systeme-de-sauvegarde-et-de-restauration) — Teaching material focused on backup, restore, monitoring, and production readiness.
-- [`ChatClone-GPT`](https://github.com/AlexIn-Tech/ChatClone-GPT) — A proof of concept built with Django and the OpenAI API to explore GPT-powered chat.
 
 ## GitHub Activity
 
