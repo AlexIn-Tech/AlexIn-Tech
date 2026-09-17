@@ -24,18 +24,6 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 - [`Swiss-IT-Tech-News`](https://github.com/AlexIn-Tech/Swiss-IT-Tech-News) — Bot for a Telegram channel that publishes news from RSS feeds, with Docker support.
 - [`Swiss-IBAN-to-QR-IBAN-Converter`](https://github.com/AlexIn-Tech/Swiss-IBAN-to-QR-IBAN-Converter) — A Swiss QR-IBAN converter built with HTML, Tailwind CSS, and JavaScript.
 
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexIn-Tech&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=github_dark_dimmed" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexIn-Tech&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexIn-Tech&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=default" alt="GitHub statistics for Alexis" />
-</picture>
-
-</div>
-
 ## Contribution Graph
 
 <div align="center">
@@ -45,5 +33,13 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexIn-Tech/AlexIn-Tech/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/AlexIn-Tech/AlexIn-Tech/output/github-snake.svg" alt="Animated GitHub contribution snake" />
 </picture>
+
+</div>
+
+## Rick and Morty
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/IgpAALi5hEv1IFmCrZ/giphy.gif" alt="Rick and Morty animation" width="480" />
 
 </div>
