@@ -24,7 +24,7 @@ I’m Alexis, a SysOps Engineer and IT teacher. Systems and Infrastructure are m
 
 My work centers on reliable systems, Linux and SysOps, automation, hosting and deployment, custom software, web and mobile projects, AI tooling, and practical IT teaching.
 
-Beyond IT, I'm also a nutritionist, and I bring that into projects like [The META](https://the-meta.app/), an AI-powered macro tracker for coaches and their clients.
+Beyond IT, I'm also a nutritionist, and I bring that into projects like [The META](https://the-meta.app/), an AI-powered macro tracker.
 
 If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) and read the blog at [alexin.tech](https://alexin.tech/).
 
