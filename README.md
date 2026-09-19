@@ -14,6 +14,7 @@
 
 [![Website](https://img.shields.io/badge/Website-alexin.tech-8aadf4?style=for-the-badge&logo=safari&logoColor=cad3f5&labelColor=1e2030)](https://alexin.tech/)
 [![Repositories](https://img.shields.io/badge/GitHub-Repositories-c6a0f6?style=for-the-badge&logo=github&logoColor=cad3f5&labelColor=1e2030)](https://github.com/AlexIn-Tech?tab=repositories)
+[![The META](https://img.shields.io/badge/The%20META-Nutrition%20App-a6da95?style=for-the-badge&labelColor=1e2030)](https://the-meta.app/)
 
 </div>
 
