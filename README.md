@@ -6,9 +6,11 @@
 
 *Your IT challenges. Practical solutions.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=8B949E&center=true&vCenter=true&width=700&lines=Systems+%26+infrastructure;Linux+%2F+SysOps+%2F+DevOps;Automation+and+hosting;Custom+software%2C+web%2C+mobile%2C+and+AI+tooling;IT+teaching" alt="Typing animation describing Alexis' areas of work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=C6A0F6&center=true&vCenter=true&width=700&lines=Systems+%26+infrastructure;Linux+%2F+SysOps+%2F+DevOps;Automation+and+hosting;Custom+software%2C+web%2C+mobile%2C+and+AI+tooling;IT+teaching" alt="Typing animation describing Alexis' areas of work" />
 
-[Website](https://alexin.tech/) · [Repositories](https://github.com/AlexIn-Tech?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-alexin.tech-8aadf4?style=for-the-badge&logo=safari&logoColor=181926&labelColor=363a4f)](https://alexin.tech/)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-c6a0f6?style=for-the-badge&logo=github&logoColor=181926&labelColor=363a4f)](https://github.com/AlexIn-Tech?tab=repositories)
+[![Theme](https://img.shields.io/badge/Catppuccin-Macchiato-f5bde6?style=for-the-badge&logo=catppuccin&logoColor=181926&labelColor=363a4f)](https://catppuccin.com/palette/)
 
 </div>
 
@@ -23,6 +25,7 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 
 - [`Swiss-IT-Tech-News`](https://github.com/AlexIn-Tech/Swiss-IT-Tech-News) — Bot for a Telegram channel that publishes news from RSS feeds, with Docker support.
 - [`Swiss-IBAN-to-QR-IBAN-Converter`](https://github.com/AlexIn-Tech/Swiss-IBAN-to-QR-IBAN-Converter) — A Swiss QR-IBAN converter built with HTML, Tailwind CSS, and JavaScript.
+- [`linkstack-catppuccin-theme`](https://github.com/AlexIn-Tech/linkstack-catppuccin-theme) — A Catppuccin theme for LinkStack.
 
 ## Contribution Graph
 
@@ -40,6 +43,6 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/IgpAALi5hEv1IFmCrZ/giphy.gif" alt="Rick and Morty animation" width="480" />
+<img src="https://media.giphy.com/media/EbeeDkvlC3fFRGJ6Om/giphy.gif" alt="Rick and Morty: Does not compute, equations everywhere" width="480" />
 
 </div>
