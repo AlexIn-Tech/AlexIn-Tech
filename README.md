@@ -29,6 +29,58 @@ Beyond IT, I'm also a nutritionist, and I bring that into projects like [The MET
 If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) and read the blog at [alexin.tech](https://alexin.tech/).
 
 
+## Experience
+
+#### Languages I Work With
+
+![PowerShell](https://img.shields.io/badge/PowerShell-8aadf4?style=for-the-badge&labelColor=1e2030) ![Python](https://img.shields.io/badge/Python-8aadf4?style=for-the-badge&labelColor=1e2030&logo=python&logoColor=1e2030) ![C#](https://img.shields.io/badge/C%23-8aadf4?style=for-the-badge&labelColor=1e2030&logo=dotnet&logoColor=1e2030) ![Java](https://img.shields.io/badge/Java-8aadf4?style=for-the-badge&labelColor=1e2030&logo=openjdk&logoColor=1e2030) ![PHP](https://img.shields.io/badge/PHP-8aadf4?style=for-the-badge&labelColor=1e2030&logo=php&logoColor=1e2030) ![JavaScript](https://img.shields.io/badge/JavaScript-8aadf4?style=for-the-badge&labelColor=1e2030&logo=javascript&logoColor=1e2030) ![Bash](https://img.shields.io/badge/Bash-8aadf4?style=for-the-badge&labelColor=1e2030&logo=gnubash&logoColor=1e2030) ![Batch](https://img.shields.io/badge/Batch-8aadf4?style=for-the-badge&labelColor=1e2030) ![SQL](https://img.shields.io/badge/SQL-8aadf4?style=for-the-badge&labelColor=1e2030) ![T-SQL](https://img.shields.io/badge/T--SQL-8aadf4?style=for-the-badge&labelColor=1e2030)
+
+#### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Windows Server 2008 → today](https://img.shields.io/badge/Windows%20Server%202008%20%E2%86%92%20today-c6a0f6?style=for-the-badge&labelColor=1e2030) ![macOS](https://img.shields.io/badge/macOS-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=apple&logoColor=1e2030) ![Ubuntu](https://img.shields.io/badge/Ubuntu-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=ubuntu&logoColor=1e2030) ![Fedora](https://img.shields.io/badge/Fedora-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=fedora&logoColor=1e2030) ![Debian](https://img.shields.io/badge/Debian-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=debian&logoColor=1e2030) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=ubuntu&logoColor=1e2030) ![Fedora Server](https://img.shields.io/badge/Fedora%20Server-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=fedora&logoColor=1e2030) ![Debian Server](https://img.shields.io/badge/Debian%20Server-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=debian&logoColor=1e2030)
+
+#### Virtualisation & Containers
+
+![VMware vSphere / ESXi](https://img.shields.io/badge/VMware%20vSphere%20%2F%20ESXi-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=vmware&logoColor=1e2030) ![Hyper-V](https://img.shields.io/badge/Hyper--V-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Proxmox](https://img.shields.io/badge/Proxmox-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=proxmox&logoColor=1e2030) ![Docker](https://img.shields.io/badge/Docker-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=docker&logoColor=1e2030)
+
+#### Infrastructure & Web Servers
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Group Policy](https://img.shields.io/badge/Group%20Policy-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Apache](https://img.shields.io/badge/Apache-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=apache&logoColor=1e2030) ![Nginx](https://img.shields.io/badge/Nginx-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=nginx&logoColor=1e2030) ![IIS](https://img.shields.io/badge/IIS-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Veeam](https://img.shields.io/badge/Veeam-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=veeam&logoColor=1e2030) ![Palo Alto Firewalls](https://img.shields.io/badge/Palo%20Alto%20Firewalls-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=paloaltonetworks&logoColor=1e2030)
+
+#### Databases
+
+![MariaDB](https://img.shields.io/badge/MariaDB-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=mariadb&logoColor=1e2030) ![MySQL](https://img.shields.io/badge/MySQL-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=mysql&logoColor=1e2030) ![SQLite](https://img.shields.io/badge/SQLite-c6a0f6?style=for-the-badge&labelColor=1e2030&logo=sqlite&logoColor=1e2030) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-c6a0f6?style=for-the-badge&labelColor=1e2030) ![Oracle DB](https://img.shields.io/badge/Oracle%20DB-c6a0f6?style=for-the-badge&labelColor=1e2030)
+
+#### Cloud, Hosting & DNS
+
+![Azure](https://img.shields.io/badge/Azure-91d7e3?style=for-the-badge&labelColor=1e2030) ![Oracle Cloud (OCI)](https://img.shields.io/badge/Oracle%20Cloud%20%28OCI%29-91d7e3?style=for-the-badge&labelColor=1e2030) ![Cloudflare](https://img.shields.io/badge/Cloudflare-91d7e3?style=for-the-badge&labelColor=1e2030&logo=cloudflare&logoColor=1e2030) ![Infomaniak](https://img.shields.io/badge/Infomaniak-91d7e3?style=for-the-badge&labelColor=1e2030&logo=infomaniak&logoColor=1e2030) ![Hetzner](https://img.shields.io/badge/Hetzner-91d7e3?style=for-the-badge&labelColor=1e2030&logo=hetzner&logoColor=1e2030)
+
+#### Endpoint & Microsoft 365
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-91d7e3?style=for-the-badge&labelColor=1e2030) ![Exchange Online](https://img.shields.io/badge/Exchange%20Online-91d7e3?style=for-the-badge&labelColor=1e2030) ![SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-91d7e3?style=for-the-badge&labelColor=1e2030) ![Intune](https://img.shields.io/badge/Intune-91d7e3?style=for-the-badge&labelColor=1e2030) ![MECM / SCCM](https://img.shields.io/badge/MECM%20%2F%20SCCM-91d7e3?style=for-the-badge&labelColor=1e2030) ![WSUS](https://img.shields.io/badge/WSUS-91d7e3?style=for-the-badge&labelColor=1e2030) ![AirWatch](https://img.shields.io/badge/AirWatch-91d7e3?style=for-the-badge&labelColor=1e2030)
+
+#### Frontend & Mobile
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-f5bde6?style=for-the-badge&labelColor=1e2030&logo=tailwindcss&logoColor=1e2030) ![Vue.js](https://img.shields.io/badge/Vue.js-f5bde6?style=for-the-badge&labelColor=1e2030&logo=vuedotjs&logoColor=1e2030) ![React](https://img.shields.io/badge/React-f5bde6?style=for-the-badge&labelColor=1e2030&logo=react&logoColor=1e2030) ![React Native](https://img.shields.io/badge/React%20Native-f5bde6?style=for-the-badge&labelColor=1e2030&logo=react&logoColor=1e2030) ![Expo](https://img.shields.io/badge/Expo-f5bde6?style=for-the-badge&labelColor=1e2030&logo=expo&logoColor=1e2030)
+
+#### AI
+
+![Claude](https://img.shields.io/badge/Claude-eed49f?style=for-the-badge&labelColor=1e2030&logo=claude&logoColor=1e2030) ![ChatGPT](https://img.shields.io/badge/ChatGPT-eed49f?style=for-the-badge&labelColor=1e2030) ![Codex](https://img.shields.io/badge/Codex-eed49f?style=for-the-badge&labelColor=1e2030) ![Ollama (open source models)](https://img.shields.io/badge/Ollama%20%28open%20source%20models%29-eed49f?style=for-the-badge&labelColor=1e2030&logo=ollama&logoColor=1e2030) ![Skill creation](https://img.shields.io/badge/Skill%20creation-eed49f?style=for-the-badge&labelColor=1e2030) ![MCP Servers (learning)](https://img.shields.io/badge/MCP%20Servers%20%28learning%29-eed49f?style=for-the-badge&labelColor=1e2030&logo=modelcontextprotocol&logoColor=1e2030)
+
+#### DevOps & Collaboration
+
+![Azure DevOps Server](https://img.shields.io/badge/Azure%20DevOps%20Server-a6da95?style=for-the-badge&labelColor=1e2030) ![Git](https://img.shields.io/badge/Git-a6da95?style=for-the-badge&labelColor=1e2030&logo=git&logoColor=1e2030) ![SourceTree](https://img.shields.io/badge/SourceTree-a6da95?style=for-the-badge&labelColor=1e2030&logo=sourcetree&logoColor=1e2030) ![JFrog](https://img.shields.io/badge/JFrog-a6da95?style=for-the-badge&labelColor=1e2030&logo=jfrog&logoColor=1e2030) ![NuGet](https://img.shields.io/badge/NuGet-a6da95?style=for-the-badge&labelColor=1e2030&logo=nuget&logoColor=1e2030) ![Jira](https://img.shields.io/badge/Jira-a6da95?style=for-the-badge&labelColor=1e2030&logo=jira&logoColor=1e2030) ![Confluence](https://img.shields.io/badge/Confluence-a6da95?style=for-the-badge&labelColor=1e2030&logo=confluence&logoColor=1e2030) ![OpsGenie](https://img.shields.io/badge/OpsGenie-a6da95?style=for-the-badge&labelColor=1e2030&logo=opsgenie&logoColor=1e2030)
+
+#### Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-f5a97f?style=for-the-badge&labelColor=1e2030) ![SCRUM](https://img.shields.io/badge/SCRUM-f5a97f?style=for-the-badge&labelColor=1e2030) ![Kanban](https://img.shields.io/badge/Kanban-f5a97f?style=for-the-badge&labelColor=1e2030) ![HERMES](https://img.shields.io/badge/HERMES-f5a97f?style=for-the-badge&labelColor=1e2030) ![ITIL V4](https://img.shields.io/badge/ITIL%20V4-f5a97f?style=for-the-badge&labelColor=1e2030)
+
+#### Human Languages
+
+![French](https://img.shields.io/badge/French-ed8796?style=for-the-badge&labelColor=1e2030) ![English](https://img.shields.io/badge/English-ed8796?style=for-the-badge&labelColor=1e2030) ![Spanish](https://img.shields.io/badge/Spanish-ed8796?style=for-the-badge&labelColor=1e2030) ![German](https://img.shields.io/badge/German-ed8796?style=for-the-badge&labelColor=1e2030) ![Portuguese (learning)](https://img.shields.io/badge/Portuguese%20%28learning%29-ed8796?style=for-the-badge&labelColor=1e2030)
+
+Full details on my [experience page](https://alexin.tech/experience/).
+
 ## Selected Projects
 
 - [`Swiss-IT-Tech-News`](https://github.com/AlexIn-Tech/Swiss-IT-Tech-News) — Bot for a Telegram channel that publishes news from RSS feeds, with Docker support.
