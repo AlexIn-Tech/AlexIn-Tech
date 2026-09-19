@@ -27,6 +27,7 @@ jobs:
 
       - name: Add Macchiato background
         run: |
+          sudo chown -R "$USER" dist
           python3 - <<'PY'
           import re
           for f in ("dist/github-snake.svg", "dist/github-snake-dark.svg"):
