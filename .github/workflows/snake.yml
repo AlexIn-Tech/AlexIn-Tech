@@ -22,18 +22,18 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#c6a0f6&color_dots=#6e738d,#8bd5ca,#a6da95,#eed49f,#f5a97f&color_dot_border=#494d64
+            dist/github-snake.svg?color_snake=#8839ef&color_dots=#bcc0cc,#179299,#40a02b,#df8e1d,#fe640b&color_dot_border=#acb0be
             dist/github-snake-dark.svg?color_snake=#c6a0f6&color_dots=#6e738d,#8bd5ca,#a6da95,#eed49f,#f5a97f&color_dot_border=#494d64
 
-      - name: Add Macchiato background
+      - name: Add Catppuccin background
         run: |
           sudo chown -R "$USER" dist
           python3 - <<'PY'
           import re
-          for f in ("dist/github-snake.svg", "dist/github-snake-dark.svg"):
+          for f, bg in (("dist/github-snake.svg", "#eff1f5"), ("dist/github-snake-dark.svg", "#24273a")):
               svg = open(f).read()
               x, y, w, h = re.search(r'viewBox="([^"]+)"', svg).group(1).split()
-              rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="#24273a"/>'
+              rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="{bg}"/>'
               svg = re.sub(r'(<svg[^>]*>)', lambda m: m.group(1) + rect, svg, count=1)
               open(f, "w").write(svg)
           PY
