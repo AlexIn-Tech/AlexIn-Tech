@@ -61,7 +61,7 @@ If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) 
 
 #### Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Windows Server 2008 → today](https://img.shields.io/badge/Windows%20Server%202008%20%E2%86%92%20today-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![macOS](https://img.shields.io/badge/macOS-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=apple&logoColor=1e2030) ![Ubuntu](https://img.shields.io/badge/Ubuntu-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=ubuntu&logoColor=1e2030) ![Fedora](https://img.shields.io/badge/Fedora-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=fedora&logoColor=1e2030) ![Debian](https://img.shields.io/badge/Debian-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=debian&logoColor=1e2030) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=ubuntu&logoColor=1e2030) ![Fedora Server](https://img.shields.io/badge/Fedora%20Server-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=fedora&logoColor=1e2030) ![Debian Server](https://img.shields.io/badge/Debian%20Server-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=debian&logoColor=1e2030)
+![Windows](https://img.shields.io/badge/Windows-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Windows Server 2008 → today](https://img.shields.io/badge/Windows%20Server%202008%20%E2%86%92%20today-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![macOS](https://img.shields.io/badge/macOS-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=apple&logoColor=1e2030) ![Ubuntu](https://img.shields.io/badge/Ubuntu-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=ubuntu&logoColor=1e2030) ![Fedora](https://img.shields.io/badge/Fedora-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=fedora&logoColor=1e2030) ![Debian](https://img.shields.io/badge/Debian-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=debian&logoColor=1e2030) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=ubuntu&logoColor=1e2030) ![Fedora Server](https://img.shields.io/badge/Fedora%20Server-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=fedora&logoColor=1e2030)
 
 #### Virtualisation & Containers
 
@@ -69,7 +69,11 @@ If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) 
 
 #### Infrastructure & Web Servers
 
-![Active Directory](https://img.shields.io/badge/Active%20Directory-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Group Policy](https://img.shields.io/badge/Group%20Policy-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Apache](https://img.shields.io/badge/Apache-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=apache&logoColor=1e2030) ![Nginx](https://img.shields.io/badge/Nginx-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=nginx&logoColor=1e2030) ![IIS](https://img.shields.io/badge/IIS-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Veeam](https://img.shields.io/badge/Veeam-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=veeam&logoColor=1e2030) ![Palo Alto Firewalls](https://img.shields.io/badge/Palo%20Alto%20Firewalls-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=paloaltonetworks&logoColor=1e2030)
+![Dell VxRail](https://img.shields.io/badge/Dell%20VxRail-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=dell&logoColor=1e2030) ![Active Directory](https://img.shields.io/badge/Active%20Directory-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Group Policy](https://img.shields.io/badge/Group%20Policy-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Apache](https://img.shields.io/badge/Apache-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=apache&logoColor=1e2030) ![Nginx](https://img.shields.io/badge/Nginx-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=nginx&logoColor=1e2030) ![IIS](https://img.shields.io/badge/IIS-c6a0f6?style=for-the-badge&labelColor=c6a0f6) ![Veeam](https://img.shields.io/badge/Veeam-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=veeam&logoColor=1e2030)
+
+#### Networking
+
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=ubiquiti&logoColor=1e2030) ![Palo Alto Firewalls](https://img.shields.io/badge/Palo%20Alto%20Firewalls-c6a0f6?style=for-the-badge&labelColor=c6a0f6&logo=paloaltonetworks&logoColor=1e2030)
 
 #### Databases
 
