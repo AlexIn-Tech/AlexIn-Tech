@@ -43,6 +43,6 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/EbeeDkvlC3fFRGJ6Om/giphy.gif" alt="Rick and Morty: Does not compute, equations everywhere" width="480" />
+<img src="https://media1.tenor.com/m/-aZGk99QVM8AAAAC/space-force-microsoft.gif" alt="Space Force: You're auto-updating now (Windows update)" width="480" />
 
 </div>
