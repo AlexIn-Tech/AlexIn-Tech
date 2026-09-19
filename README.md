@@ -8,9 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=C6A0F6&center=true&vCenter=true&width=700&lines=Systems+%26+infrastructure;Linux+%2F+SysOps+%2F+DevOps;Automation+and+hosting;Custom+software%2C+web%2C+mobile%2C+and+AI+tooling;IT+teaching" alt="Typing animation describing Alexis' areas of work" />
 
-[![Website](https://img.shields.io/badge/Website-alexin.tech-8aadf4?style=for-the-badge&logo=safari&logoColor=181926&labelColor=363a4f)](https://alexin.tech/)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-c6a0f6?style=for-the-badge&logo=github&logoColor=181926&labelColor=363a4f)](https://github.com/AlexIn-Tech?tab=repositories)
-[![Theme](https://img.shields.io/badge/Catppuccin-Macchiato-f5bde6?style=for-the-badge&logo=catppuccin&logoColor=181926&labelColor=363a4f)](https://catppuccin.com/palette/)
+[![Website](https://img.shields.io/badge/Website-alexin.tech-8aadf4?style=for-the-badge&logo=safari&logoColor=cad3f5&labelColor=1e2030)](https://alexin.tech/)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-c6a0f6?style=for-the-badge&logo=github&logoColor=cad3f5&labelColor=1e2030)](https://github.com/AlexIn-Tech?tab=repositories)
+[![Theme](https://img.shields.io/badge/Catppuccin-Macchiato-f5bde6?style=for-the-badge&logo=catppuccin&logoColor=cad3f5&labelColor=1e2030)](https://catppuccin.com/palette/)
 
 </div>
 
@@ -38,8 +38,6 @@ My work centers on reliable systems, Linux and SysOps, automation, hosting and d
 </picture>
 
 </div>
-
-## Coffee Consumption
 
 <div align="center">
 
