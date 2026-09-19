@@ -25,6 +25,18 @@ jobs:
             dist/github-snake.svg?color_snake=#c6a0f6&color_dots=#6e738d,#8bd5ca,#a6da95,#eed49f,#f5a97f&color_dot_border=#494d64
             dist/github-snake-dark.svg?color_snake=#c6a0f6&color_dots=#6e738d,#8bd5ca,#a6da95,#eed49f,#f5a97f&color_dot_border=#494d64
 
+      - name: Add Macchiato background
+        run: |
+          python3 - <<'PY'
+          import re
+          for f in ("dist/github-snake.svg", "dist/github-snake-dark.svg"):
+              svg = open(f).read()
+              x, y, w, h = re.search(r'viewBox="([^"]+)"', svg).group(1).split()
+              rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="#24273a"/>'
+              svg = re.sub(r'(<svg[^>]*>)', lambda m: m.group(1) + rect, svg, count=1)
+              open(f, "w").write(svg)
+          PY
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
