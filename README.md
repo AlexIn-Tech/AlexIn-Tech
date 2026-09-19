@@ -6,7 +6,7 @@
 
 *Your IT challenges. Practical solutions.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=C6A0F6&center=true&vCenter=true&width=700&lines=Systems+%26+infrastructure;Linux+%2F+SysOps+%2F+DevOps;Automation+and+hosting;Custom+software%2C+web%2C+mobile%2C+and+AI+tooling;IT+teaching" alt="Typing animation describing Alexis' areas of work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=C6A0F6&background=24273AFF&center=true&vCenter=true&width=700&lines=Systems+%26+infrastructure;Linux+%2F+SysOps+%2F+DevOps;Automation+and+hosting;Custom+software%2C+web%2C+mobile%2C+and+AI+tooling;IT+teaching" alt="Typing animation describing Alexis' areas of work" />
 
 [![Website](https://img.shields.io/badge/Website-alexin.tech-8aadf4?style=for-the-badge&logo=safari&logoColor=cad3f5&labelColor=1e2030)](https://alexin.tech/)
 [![Repositories](https://img.shields.io/badge/GitHub-Repositories-c6a0f6?style=for-the-badge&logo=github&logoColor=cad3f5&labelColor=1e2030)](https://github.com/AlexIn-Tech?tab=repositories)
