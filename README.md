@@ -36,7 +36,7 @@ If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) 
 - **[`Catppuccin-PowerShell`](https://github.com/AlexIn-Tech/Catppuccin-PowerShell)** — A repeatable Windows PowerShell setup with Catppuccin Macchiato, Oh My Posh, PSReadLine, Windows Terminal, and FiraCode Nerd Font. **[Try it →](https://github.com/AlexIn-Tech/Catppuccin-PowerShell)**
 - **[`Krosmoz Codex Minis`](https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis)** — A collection of unofficial animated Codex minis inspired by the Krosmoz universe. **[Explore the minis →](https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis)**<br>
   <sub>My favorite: Ruel Stroud</sub><br>
-  <a href="https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis/tree/main/pets/ruel"><img src="https://raw.githubusercontent.com/AlexIn-Tech/Krosmoz-Codex-Minis/main/assets/previews/ruel.gif" alt="Ruel Stroud animated mini" width="80" /></a>
+  <a href="https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis/tree/main/pets/ruel"><img src="https://raw.githubusercontent.com/AlexIn-Tech/Krosmoz-Codex-Minis/main/assets/previews/ruel.gif" alt="Ruel Stroud animated mini" width="120" /></a>
 
 ### More projects
 
