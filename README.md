@@ -40,6 +40,17 @@ If you like what you see, [follow me on GitHub](https://github.com/AlexIn-Tech) 
 - [`Swiss-IT-Tech-News`](https://github.com/AlexIn-Tech/Swiss-IT-Tech-News) — Bot for a Telegram channel that publishes news from RSS feeds, with Docker support.
 - [`Swiss-IBAN-to-QR-IBAN-Converter`](https://github.com/AlexIn-Tech/Swiss-IBAN-to-QR-IBAN-Converter) — A Swiss QR-IBAN converter built with HTML, Tailwind CSS, and JavaScript.
 - [`linkstack-catppuccin-theme`](https://github.com/AlexIn-Tech/linkstack-catppuccin-theme) — A Catppuccin theme for LinkStack.
+- [`Krosmoz Codex Minis`](https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis) — A collection of unofficial animated Codex minis inspired by the Krosmoz universe.
+
+### A personal favorite: Ruel Stroud
+
+I’m a huge fan of Ruel, so he has a mini of his own—complete with Kamasu-Tar and a kama hunt.
+
+<div align="center">
+
+<a href="https://github.com/AlexIn-Tech/Krosmoz-Codex-Minis/tree/main/pets/ruel"><img src="https://raw.githubusercontent.com/AlexIn-Tech/Krosmoz-Codex-Minis/main/assets/previews/ruel.gif" alt="Animated Ruel Stroud mini from Krosmoz Codex Minis" width="220" /></a>
+
+</div>
 
 ## Contribution Graph
 
